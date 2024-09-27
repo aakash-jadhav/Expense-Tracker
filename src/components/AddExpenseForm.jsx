@@ -51,7 +51,7 @@ export default function AddExpenseForm({ budgets }) {
             />
           </div>
           <div className="grid-xs">
-            <label htmlFor="newExpenseAmount">Amount Name</label>
+            <label htmlFor="newExpenseAmount">Amount</label>
             <input
               type="number"
               step="0.01"
